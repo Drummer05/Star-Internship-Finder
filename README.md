@@ -22,3 +22,6 @@
 - Location
 - Requirement
 - Position
+
+# For more information about the intership finder database, check the report file
+
