@@ -35,3 +35,11 @@ To explore the Star Internship Finder Database:
 ## Additional Information
 For more detailed insights and analysis of the internship finder database, please refer to the Star_Internship_Finder_Report file.
 
+## License
+This project is licensed under the MIT License. 
+
+## Feedback and Contributions
+
+This project is open for feedback and contributions. If you have suggestions, improvements, or questions, please feel free to [open an issue](https://github.com/Drummer05/Star-Internship-Finder/issues) or [submit a pull request](https://github.com/Drummer05/Star-Internship-Finder/pulls). Your input is highly appreciated, and it helps enhance the educational value of this project.
+
+
