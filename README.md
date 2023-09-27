@@ -1,27 +1,37 @@
 # Star Internship Finder Project Overview
 
-**Business Scenario:** Star, a local startup, aims to help college students discover internships by creating a database management system. Currently, they manually track internship opportunities, which is inefficient and doesn't scale. The goal is to develop a system that matches students with internships based on criteria like location, major, interest, and skills.
+## Business Scenario
+Star, a local startup, is on a mission to simplify the internship discovery process for college students. Currently, they manage internship opportunities manually, which is inefficient and limits their growth potential. The objective is to develop a robust database management system that can efficiently match students with internships based on various criteria, including location, major, interests, and skills.
 
-**System Objectives:**
-- Improve the efficiency of internship discovery for students.
-- Enhance the process for companies to post and manage internship opportunities.
-- Create a scalable solution to replace the pen-and-paper tracking method.
+## System Objectives
+Our primary goals for this project are as follows:
+- Enhance the efficiency of internship discovery for students.
+- Streamline the process for companies to post and manage internship opportunities.
+- Create a scalable and digital solution to replace the traditional pen-and-paper tracking method.
 
-**Data Fields:**
-- Company information: name, location, industry, salary, etc.
-- Internship details: position, release date, due date, duration, link, etc.
-- Student information: contact details, applied internships, unique identifier.
-- Location data: unique location identifier.
-- Requirements: unique requirement identifier.
-- Position: unique position identifier.
+## Data Fields
+The database will store essential information under the following categories:
+- **Company Information**: Includes details such as company name, location, industry, salary, and more.
+- **Internship Details**: Covers internship positions, release dates, due dates, duration, application links, and more.
+- **Student Information**: Stores student contact details, records of applied internships, and unique identifiers.
+- **Location Data**: Utilizes unique location identifiers for efficient matching.
+- **Requirements**: Contains unique requirement identifiers.
+- **Positions**: Features unique position identifiers.
 
-**Entities:**
-- Company
-- Internship
-- Student
-- Location
-- Requirement
-- Position
+## Entities
+The database comprises the following entities:
+- **Company**: Represents company profiles.
+- **Internship**: Manages internship listings.
+- **Student**: Stores student data.
+- **Location**: Provides location information.
+- **Requirement**: Tracks internship requirements.
+- **Position**: Handles position details.
 
-# For more information about the intership finder database, check the report file
+## Getting Started
+To explore the Star Internship Finder Database:
+1. **Download the Database**: Go to the Star_Internship_Finder.accdb file and download the file.
+2. **Access with Microsoft Access**: Open the downloaded MS Access file to explore and interact with the database.
+
+## Additional Information
+For more detailed insights and analysis of the internship finder database, please refer to the Star_Internship_Finder_Report file.
 
